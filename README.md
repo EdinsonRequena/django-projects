@@ -1,8 +1,8 @@
-# django-projects
+# django-projects :octocat:
 
-### Here you can find many different projects built with django :squirrel:
+### Here you can find many different projects built with django :shipit:
 
-### Author :octocat:
+### Author :computer:
 
 * **Edinson Requena**
 - [YouTube](https://www.youtube.com/channel/UCFXAiceHPFzk81Ooc25_QTg/featured)
